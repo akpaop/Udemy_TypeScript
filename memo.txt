@@ -1,0 +1,3 @@
+//package.jsonを作成する
+npm init -y
+
