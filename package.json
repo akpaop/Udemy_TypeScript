@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/akpaop/Udemy_TypeScript/issues"
   },
-  "homepage": "https://github.com/akpaop/Udemy_TypeScript#readme"
+  "homepage": "https://github.com/akpaop/Udemy_TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
