@@ -1,4 +1,4 @@
-let message: string = 'Hello,TypeScript!! ts-node!';
+let message: string = 'Hello,TypeScript!!! ts-node!! ts-node-dev!';
 console.log({ message });
 
 //package.jsonを作成する
@@ -22,6 +22,18 @@ console.log({ message });
 //実行
 // npx ts-node src/install-typescript.ts
 //　→ファイルは再作成されず実行されるようだ
+
+//ts-node-dev
+//バージョン調査
+// npm info ts-node-dev
+//インストール
+//npm install --save-dev ts-node-dev@1.1.8
+//監視開始
+//npx ts-node-dev --respawn src/install-typescript.ts
+//監視終了
+//Ctrl+C
+
+//npm run dev src/install-typescript.ts
 
 //バージョン調査
 //インストール
