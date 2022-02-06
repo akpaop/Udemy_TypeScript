@@ -44,3 +44,9 @@ console.log({ message });
 
 //echo 'export {};' > src/string.ts
 //npm run dev src/string.ts
+
+//axios
+//npm info axios
+//npm install --save-dev axios@0.25.0
+//echo '' > src/any.ts
+//npm run dev src/any.ts
