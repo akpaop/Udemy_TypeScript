@@ -39,6 +39,8 @@ console.log({ message });
 //ts.config
 //npx tsc --init
 
-//バージョン調査
-//インストール
-//実行
+//echo 'export {};' > src/boolean.ts
+//npm run dev src/boolean.ts
+
+//echo 'export {};' > src/string.ts
+//npm run dev src/string.ts
