@@ -33,6 +33,7 @@ console.log({ message });
 //監視終了
 //Ctrl+C
 
+//package.jsonにdevエントリを追加したので↓で実行できるように
 //npm run dev src/install-typescript.ts
 
 //バージョン調査
