@@ -36,6 +36,9 @@ console.log({ message });
 //package.jsonにdevエントリを追加したので↓で実行できるように
 //npm run dev src/install-typescript.ts
 
+//ts.config
+//npx tsc --init
+
 //バージョン調査
 //インストール
 //実行
